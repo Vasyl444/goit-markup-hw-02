@@ -97,8 +97,7 @@ text-decoration: underline;
     line-height: 1.2;
     letter-spacing: 0.02em;}
 
-.about .text {
-    color: #434455;
+.about .text {color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
@@ -106,8 +105,7 @@ text-decoration: underline;
 /*=====OURTEAM=====*/
 
 .team {background-color: #F4F4FD;}
-.team .team-title {
-    color: #2e2f42;
+.team .team-title {color: #2e2f42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -115,7 +113,8 @@ text-decoration: underline;
     letter-spacing: 0.02em;
     text-transform: capitalize;
    }
-.team .person{background-color: #FFFFFF;}
+.team .person .member,
+.team .person .prof{background-color: #FFFFFF;;}
 .team .person .member{
     color: #2e2f42;
     font-size: 20px;
@@ -125,16 +124,15 @@ text-decoration: underline;
    }
 
 .team  .person .prof {
-    color: #434456;
+    color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing:0.02em;
    }
 
 /*======PORTFOLIO=======*/
 .portfolio {background-color: #FFFFFF;}
-.portfolio .our-port {
-    color: #2e2f42;
+.portfolio .our-port {color: #2e2f42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
