@@ -98,7 +98,7 @@ text-decoration: underline;
     letter-spacing: 0.02em;}
 
 .about .text {
-    color: #434456;
+    color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
@@ -107,7 +107,7 @@ text-decoration: underline;
 
 .team {background-color: #F4F4FD;}
 .team .team-title {
-    color: #2E2F44;
+    color: #2e2f42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -115,17 +115,16 @@ text-decoration: underline;
     letter-spacing: 0.02em;
     text-transform: capitalize;
    }
-
-.team .team-title .person .member{
+.team .person{background-color: #FFFFFF;}
+.team .person .member{
     color: #2e2f42;
-    text-align: center;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02;
    }
 
-.team .team-title .person .prof {
+.team  .person .prof {
     color: #434456;
     font-size: 16px;
     line-height: 1.5;
@@ -135,7 +134,7 @@ text-decoration: underline;
 /*======PORTFOLIO=======*/
 .portfolio {background-color: #FFFFFF;}
 .portfolio .our-port {
-    color: #2E2F42;
+    color: #2e2f42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -143,13 +142,13 @@ text-decoration: underline;
     letter-spacing: 0.02em;
     text-transform: capitalize;
    }
-   /*.portfolio .our-port .elements .products {
-        color: #2E2F42;
+.portfolio .elements .products {
+        color: #2e2f42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
-}*/
+}
 .portfolio .our-port .prod-text {
         font-size: 16px;
         line-height: 1.5;
