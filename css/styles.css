@@ -113,7 +113,7 @@ text-decoration: underline;
     letter-spacing: 0.02em;
     text-transform: capitalize;
    }
-.team .person {background-color: #FFFFFF;}
+.list {background-color: #FFFFFF;}
 .team .person .member{
     color: #2e2f42;
     font-size: 20px;
