@@ -36,7 +36,7 @@ h3 {color: #2E2F44;
 
 
 .navi-list-item {
-color: #2E2F44;
+color: #2e2f42;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -47,7 +47,7 @@ text-decoration: none
 .navi-list-item:active{color: #404BBF;
 text-decoration: underline;
 }
-
+.adress {font-style: normal;}
 .adress .contact {
     color: #434456;
     font-size: 16px;
@@ -55,10 +55,9 @@ text-decoration: underline;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: none;
-    font-style: normal;
  }
  .adress .contact:hover,
- .adress .contact:focus{color: #404BBF;}
+ .adress:focus{color: #404BBF;}
 /*=====ABOUTUS=====*/
 .sec {background-color: #2E2F44;}
 
