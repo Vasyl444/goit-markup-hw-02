@@ -114,13 +114,13 @@ text-decoration: underline;
     text-transform: capitalize;
    }
 .team .person .member,
-.team .person .prof{background-color: #FFFFFF;;}
+.team .person .prof{background-color: #FFFFFF;}
 .team .person .member{
     color: #2e2f42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
    }
 
 .team .person .prof {
