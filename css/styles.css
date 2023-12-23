@@ -156,12 +156,10 @@ text-decoration: underline;
         letter-spacing: 0.02em;
 }
 /*=====FOOTER=====*/
-.footer {
-    background-color: #2e2f42;
+.foot { background-color: #2e2f42;
 }
 
-.footer .akcent {
-    color: #f4f4fd;
+.foot .akcent { color: #f4f4fd;
     font-family: Raleway;
     font-size: 18px;
     font-style: normal;
@@ -172,7 +170,7 @@ text-decoration: underline;
     text-decoration: none;
 }
 
-.footer .foot-text {
+.foot .foot-text {
     color: #F4F4FD;
     font-size: 16px;
     line-height: 1.5;
