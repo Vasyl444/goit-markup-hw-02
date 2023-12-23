@@ -1,4 +1,5 @@
 body {font-family: "Roboto", sans-serif;
+    color: #2E2F44;
     font-style: normal;
      }
 ul {list-style-type: none;}
@@ -40,6 +41,11 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-decoration: none
  }
+.navi-list-item:hover,
+.navi-list-item:focus{color: #404BBF;}
+.navi-list-item:active{color: #404BBF;
+text-decoration: underline;
+}
 
 .adress .contact {
     color: #434456;
@@ -50,6 +56,8 @@ text-decoration: none
     text-decoration: none;
     font-style: normal;
  }
+ .adress .contact:hover,
+ .adress .contact:focus{color: #404BBF;}
 /*=====ABOUTUS=====*/
 .sec {background-color: #2E2F44;}
 
@@ -62,7 +70,7 @@ text-decoration: none
     line-height: 1.07;
     letter-spacing: 0.02em;
 }
-.main .sec .but {
+.but {
     background: #4A5AEE;
     color: #FFFFFF;
     font-family: inherit;
@@ -71,6 +79,8 @@ text-decoration: none
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
+.but:hover,
+.but:focus {background: #404BBF}
 
 .about .title-about {visibility: hidden;}
 /*.about .title-about .benefit {
