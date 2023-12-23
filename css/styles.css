@@ -43,13 +43,13 @@ letter-spacing: 0.02em;
 text-decoration: none
  }
 .navi-list-el .navi-list-item:hover,
-.navi-list-el .navi-list-item:focus{color: #404BBF;}
-.navi-list-el .navi-list-item:active{color: #404BBF;
+.navi-list-el .navi-list-item:focus{color: #404bbf;}
+.navi-list-el .navi-list-item:active{color: #404bbf;
 text-decoration: underline;
 }
 .adress {font-style: normal;
 }
-.adress .contact {
+.adress .item .contact {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
@@ -57,8 +57,8 @@ text-decoration: underline;
     letter-spacing: 0.02em;
     text-decoration: none;
  }
- .adress .contact:hover,
- .adress:focus{color: #404BBF;}
+ .adress .item .contact:hover,
+ .adress .item .contact:focus{color: #404bbf;}
 /*=====ABOUTUS=====*/
 .sec {background-color: #2e2f42;}
 
