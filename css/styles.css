@@ -123,7 +123,7 @@ text-decoration: underline;
     letter-spacing: 0.02;
    }
 
-.team  .person .prof {
+.team .person .prof {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
@@ -147,7 +147,7 @@ text-decoration: underline;
         line-height: 1.2;
         letter-spacing: 0.02em;
 }
-.portfolio .our-port .prod-text {
+.portfolio .elements .prod-text {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
