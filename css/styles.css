@@ -35,21 +35,22 @@ h3 {color: #2E2F44;
     }
 
 
-.navi-list-item {
+.navi-list-el .navi-list-item {
 color: #2e2f42;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
 text-decoration: none
  }
-.navi-list-item:hover,
-.navi-list-item:focus{color: #404BBF;}
-.navi-list-item:active{color: #404BBF;
+.navi-list-el .navi-list-item:hover,
+.navi-list-el .navi-list-item:focus{color: #404BBF;}
+.navi-list-el .navi-list-item:active{color: #404BBF;
 text-decoration: underline;
 }
-.adress {font-style: normal;}
+.adress {font-style: normal;
+}
 .adress .contact {
-    color: #434456;
+    color: #434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -59,8 +60,7 @@ text-decoration: underline;
  .adress .contact:hover,
  .adress:focus{color: #404BBF;}
 /*=====ABOUTUS=====*/
-.sec {background-color: #2E2F44;}
-
+.sec {background-color: #2e2f42;}
 
 .main .sec {text-align: center;}
 .main .sec .title {
@@ -71,13 +71,14 @@ text-decoration: underline;
     letter-spacing: 0.02em;
 }
 .but {
-    background: #4A5AEE;
+    background-color: #4D5AE5;
     color: #FFFFFF;
     font-family: inherit;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    cursor: pointer;
 }
 .but:hover,
 .but:focus {background: #404BBF}
