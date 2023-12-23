@@ -1,5 +1,6 @@
 body {font-family: "Roboto", sans-serif;
     background-color:#FFFFFF;
+    color: #434455;
     font-style: normal;
      }
 ul {list-style-type: none;}
@@ -9,7 +10,7 @@ h3 {color: #2E2F44;
     line-height: 1.2;
     letter-spacing: 0.02em;}
 /*======HEADER======*/
-.navi .logo {
+.akcent {
     color: #2E2F42;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -21,7 +22,7 @@ h3 {color: #2E2F44;
     text-decoration: none;
     }
 
-.akcent {
+.logo {
         color: #4D5AE5;
         font-family: "Raleway", sans-serif;
         font-size: 18px;
@@ -151,7 +152,7 @@ text-decoration: underline;
     background-color: #2E2F44;
 }
 
-.footer .logo {
+.footer .akcent {
     color: #F4F4FE;
     font-family: Raleway;
     font-size: 18px;
